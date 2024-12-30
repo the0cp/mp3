@@ -1,2 +1,3 @@
-# mp3
-Wallpaper Engine - A Simple MP3 Player
+# Play Some Music - A Simple MP3 Player for Wallpaper Engine 
+
+![preview](preview.jpg)
